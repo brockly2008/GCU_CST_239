@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"topic1_3"}]
