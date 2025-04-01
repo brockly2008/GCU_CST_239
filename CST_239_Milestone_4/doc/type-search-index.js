@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"storefront2","l":"Armor"},{"p":"service","l":"FileService"},{"p":"storefront2","l":"Health"},{"p":"storefront2","l":"InventoryManager"},{"p":"storefront2","l":"SalableProduct"},{"p":"storefront2","l":"ShoppingCart"},{"p":"storefront2","l":"StoreFront"},{"p":"storefront2","l":"Weapon"}]

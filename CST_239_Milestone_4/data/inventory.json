@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Weapon",
+    "name": "Iron Sword",
+    "description": "A sturdy blade.",
+    "price": 100.0,
+    "quantity": 5
+  },
+  {
+    "type": "Armor",
+    "name": "Steel Chestplate",
+    "description": "Protects the torso.",
+    "price": 150.0,
+    "quantity": 3
+  },
+  {
+    "type": "Health",
+    "name": "Potion",
+    "description": "Restores HP.",
+    "price": 50.0,
+    "quantity": 10
+  },
+  {
+    "type": "Weapon",
+    "name": "Battle Axe",
+    "description": "A heavy axe.",
+    "price": 200.0,
+    "quantity": 2
+  }
+]
