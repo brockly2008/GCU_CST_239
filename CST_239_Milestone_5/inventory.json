@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Weapon",
+    "name": "Sword",
+    "description": "Sharp blade for slaying enemies.",
+    "price": 150.0,
+    "quantity": 3
+  },
+  {
+    "type": "Armor",
+    "name": "Chainmail",
+    "description": "Protective armor made of linked rings.",
+    "price": 200.0,
+    "quantity": 2
+  },
+  {
+    "type": "Health",
+    "name": "Potion",
+    "description": "Restores 50 HP.",
+    "price": 25.0,
+    "quantity": 10
+  }
+]
