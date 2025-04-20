@@ -1,0 +1,26 @@
+[
+  {
+    "type": "weapon",
+    "name": "Photon Blade",
+    "description": "High-energy melee weapon.",
+    "price": 150.0,
+    "quantity": 2,
+    "damage": 75
+  },
+  {
+    "type": "armor",
+    "name": "Titanium Shield",
+    "description": "Strong front-line defense.",
+    "price": 120.0,
+    "quantity": 1,
+    "defense": 60
+  },
+  {
+    "type": "health",
+    "name": "Ultra Health Potion",
+    "description": "Restores full HP.",
+    "price": 25.0,
+    "quantity": 5,
+    "healAmount": 100
+  }
+]
